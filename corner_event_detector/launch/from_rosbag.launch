@@ -25,5 +25,5 @@
 
   <!-- display -->
   <node name="rqt_gui_corners" pkg="rqt_gui" type="rqt_gui" args="--perspective-file $(find corner_event_detector)/cfg/viewers.perspective" />
-
+    
 </launch>
